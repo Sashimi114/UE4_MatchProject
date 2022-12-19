@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BlockoutToolsPlugin-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\G0874\Documents\Unreal Projects\ActionRPGProject\Intermediate\Build\Win64\ActionRPGProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\G0874\Documents\Unreal Projects\ActionRPGProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsPlugin\Module.BlockoutToolsPlugin.cpp.obj"
+"C:\Users\G0874\Documents\Unreal Projects\ActionRPGProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsPlugin\Module.BlockoutToolsPlugin.gen.cpp.obj"
+"C:\Users\G0874\Documents\Unreal Projects\ActionRPGProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsPlugin\Default.rc2.res"
+/OUT:"C:\Users\G0874\Documents\Unreal Projects\ActionRPGProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsPlugin\UE4Editor-BlockoutToolsPlugin-0005.lib"
+/INCLUDE:IMPLEMENT_MODULE_BlockoutToolsPlugin

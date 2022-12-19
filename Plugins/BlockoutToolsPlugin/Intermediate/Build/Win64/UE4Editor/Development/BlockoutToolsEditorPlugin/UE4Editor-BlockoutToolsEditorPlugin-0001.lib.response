@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BlockoutToolsEditorPlugin-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\MatchProject\Intermediate\Build\Win64\MatchProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\MatchProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\BlockoutToolsEditorPlugin.cpp.obj"
+"D:\MatchProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Default.rc2.res"
+/OUT:"D:\MatchProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\UE4Editor-BlockoutToolsEditorPlugin-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_BlockoutToolsEditorPlugin
